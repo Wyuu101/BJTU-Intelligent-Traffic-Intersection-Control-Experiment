@@ -10,8 +10,11 @@
 -  开发环境：Masm for Windows集成实验环境 2012.5
 -  实验平台：北京交通大学TPC-JK-II实验平台
 
+## 三、实验目的
+- 学会使用8259中断控制器
+- 学会使用8255并行IO管理器
 
-## 二、硬件地址
+## 四、硬件地址
 - 实验台IO地址
   ![image](https://github.com/user-attachments/assets/b1eda35e-a01f-409b-8f49-89c7b46348cd)
 
@@ -22,9 +25,9 @@
 - 七段数码管电路原理图
   ![image](https://github.com/user-attachments/assets/6bba9cb9-ed24-4c65-b1a6-93cdef1a71d8)
 
-## 实验箱接线图
+## 五、实验箱接线图
 - ![image](https://github.com/user-attachments/assets/801815e6-07df-468d-981f-1b4c7929cad7)
 
-##
+
 
 
